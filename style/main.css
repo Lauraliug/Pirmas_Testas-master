@@ -1,10 +1,19 @@
 .red {
     background-color: red;
     text-align: center;
+    border: 5px double yellow;
+    display: inline-block;
+    border-radius: 5%;
+    margin: 10px;
+
 }
 
 p {
     font-size: 35px;
     color: yellow;
     font-weight: bold;
+}
+
+h1 {
+    font-size: 45px;
 }
