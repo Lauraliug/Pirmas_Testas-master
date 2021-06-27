@@ -2,3 +2,9 @@
     background-color: red;
     text-align: center;
 }
+
+p {
+    font-size: 35px;
+    color: yellow;
+    font-weight: bold;
+}
